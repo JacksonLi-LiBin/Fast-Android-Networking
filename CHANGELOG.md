@@ -1,6 +1,28 @@
 Change Log
 ==========
 
+Version 1.0.2 *(2018-07-10)*
+----------------------------
+
+ * New: Add support for multiple file upload with same key
+ * New: Add support for multi contentType in multipart
+ * Bump OkHttp Version to 3.10.0
+ * Bump other dependencies
+
+
+Version 1.0.1 *(2017-12-20)*
+----------------------------
+
+ * New: Add support for `Single`, `Completable`, `Flowable`, `Maybe` Observable
+ * New: Add support for OPTIONS request
+ * Bump OkHttp Version to 3.9.1
+ * Bump other dependencies
+ * New: Add support for specifying request method dynamically
+ * New: Add API to check isRequestRunning
+ * Fix: Add more than one values for one key in header and query
+ * Merge pull requests
+
+
 Version 1.0.0 *(2017-03-19)*
 ----------------------------
 
